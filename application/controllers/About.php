@@ -9,7 +9,7 @@
 /**
  * Description of About
  *
- * @author Michael
+ * @author Michael 
  */
 class About extends Application{
     
